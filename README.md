@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [adrian.addlater](adrian.addlater)
 
-- 📝 I regularly write articles on [sageblog.addlater](https://sagesoftware.web.app/blog.html)
+- 📝 I regularly write articles on [Sage Company Website](https://sagesoftware.web.app/blog.html)
 
 - 💬 Ask me about **Spring Boot**
 
