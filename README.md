@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriansd1" alt="adriansd1" /></a> </p>
 
-- 🔭 I’m currently working on [SociaLink](SociaLink.addlater)
+- 🔭 I’m currently working on [Flux.](Flux.addlater)
 
 - 🌱 I’m currently studying at **York University**
 
-- 👯 I’m currently working at [Sage Software Solutions](sage.addlater)
+- 👯 I’m currently working at [Sage Software Solutions](https://sagesoftware.web.app/)
 
 - 👨‍💻 All of my projects are available at [adrian.addlater](adrian.addlater)
 
-- 📝 I regularly write articles on [sageblog.addlater](sageblog.addlater)
+- 📝 I regularly write articles on [sageblog.addlater]([sageblog.addlater](https://sagesoftware.web.app/blog.html))
 
 - 💬 Ask me about **Spring Boot**
 
