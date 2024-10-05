@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriansd1" alt="adriansd1" /></a> </p>
 
-- 🔭 I’m currently working on [Flux.](Flux.addlater)
+- 🔭 I’m currently working on [Flux.](https://www.fluxapp.software/)
 
 - 🌱 I’m currently studying at **York University**
 
