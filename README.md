@@ -1,35 +1,111 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate Software Engineering Student from Toronto</h3>
+# 👋 Hi, I'm Adrian
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriansd1&label=Profile%20views&color=0e75b6&style=flat" alt="adriansd1" /> </p>
+🚀 Engineering Student @ York University  
+💻 Full-Stack Developer | Systems Builder | Problem Solver  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriansd1" alt="adriansd1" /></a> </p>
+I build **scalable software systems**, from low-level hardware design to full-stack web applications, with a focus on **real-world impact** in fintech, data systems, and AI-powered applications.
 
-- 🔭 I’m currently working on [Flux.](https://www.fluxapp.software/)
+---
 
-- 🌱 I’m currently studying at **York University**
+## 🧠 What I Do
 
-- 👯 I’m currently working at [Sage Software Solutions](https://sagesoftware.web.app/)
+- Design and build **full-stack applications** (React + Spring Boot / FastAPI)
+- Develop **data-intensive systems** (SQL, Spark, distributed processing)
+- Work with **hardware + low-level systems** (FPGA, Verilog, digital logic)
+- Build **AI-integrated platforms** (LLMs, embeddings, vector search)
+- Engineer **clean, structured, production-ready architectures**
 
-- 👨‍💻 All of my projects are available at [adrian.addlater](adrian.addlater)
+---
 
-- 📝 I regularly write articles on [Sage Company Website](https://sagesoftware.web.app/blog.html)
+## 🚀 Featured Projects
 
-- 💬 Ask me about **Spring Boot**
+### ⚡ Offline AI Energy Analytics (Capstone)
+AI-powered system for querying and analyzing energy site data without cloud dependency.
 
-- 📫 How to reach me **samdaliri39@gmail.com**
+**Tech:**
+`FastAPI` `PostgreSQL` `React` `FAISS` `LLMs`
 
-- 📄 Know about my experiences [resume.addlater](resume.addlater)
+**Highlights:**
+- Natural language querying over structured datasets  
+- Vector search with embeddings  
+- Backend optimized for local/offline deployment  
+- Built as part of an engineering capstone project  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adrian-sam-daliri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrian-sam-daliri" height="30" width="40" /></a>
-<a href="https://instagram.com/adriansamdaliri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adriansamdaliri" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛒 Auction E-Commerce Platform
+Full-stack auction system supporting forward and Dutch auctions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adriansd1&show_icons=true&locale=en&layout=compact" alt="adriansd1" /></p>
+**Tech:**
+`Spring Boot` `React` `JPA` `MySQL`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adriansd1&show_icons=true&locale=en" alt="adriansd1" /></p>
+**Highlights:**
+- Real-time bidding logic  
+- RESTful backend with layered architecture  
+- Clean separation of services, controllers, and persistence  
+- Built following strict academic deliverables and system design principles  
+
+---
+
+### 🧩 Systems & Hardware Projects
+Low-level system design and digital logic implementation.
+
+**Tech:**
+`Verilog` `SystemVerilog` `Quartus` `FPGA (DE10-Lite)`
+
+**Highlights:**
+- VGA graphics controllers  
+- Digital circuits (decoders, multiplexers, ALU components)  
+- Hardware-level problem solving and simulation  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Java` `Python` `TypeScript` `JavaScript` `SQL` `C` `Verilog`
+
+### ⚙️ Backend
+`Spring Boot` `FastAPI` `Node.js` `REST APIs` `JPA/Hibernate`
+
+### 🎨 Frontend
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+### 🗄 Databases
+`PostgreSQL` `MySQL` `SQLite`
+
+### 📊 Data & AI
+`Apache Spark` `FAISS` `LLMs` `Data Processing`
+
+### 🧰 Tools & Systems
+`Docker` `Git` `Linux` `Maven` `Gradle` `Quartus`
+
+---
+
+## 📈 What I'm Focused On
+
+- Building **production-grade full-stack systems**
+- Designing **scalable backend architectures**
+- Integrating **AI into real-world applications**
+- Exploring **distributed systems & data engineering**
+- Developing **clean, maintainable, well-documented codebases**
+
+---
+
+## 🧩 How I Work
+
+- Structured, modular development (clear layers & responsibilities)
+- Strong focus on **readability, scalability, and testing**
+- Iterative development with real-world constraints
+- Documentation-first mindset (README, diagrams, architecture)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open to internships, collaborations, and projects  
+- 🚀 Always building — always learning  
+
+---
+
+⭐ *Check out my repositories to see real implementations of everything above.*
